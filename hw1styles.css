@@ -8,19 +8,19 @@ body {
 	font-size: 13pt;
 	}
 h1 {
-	background: darkblue;
+	background: #206;
 	color: white;
-	padding: 15px;
-	font-size: 24pt;
+	padding: 18px;
+	font-size: 26pt;
 	}
 .top {
-	color: gray;
-	font-size: 18pt;
-	font-weight: bold;
+	color: #999;
+	font-size: 19pt;
+	font-weight: bolder;
 	/* word-spacing: 2px; */
 	}
 .description {
-	border-bottom: 5px solid gray;
+	border-bottom: 4px solid #999;
 	}
 .bluebox {
 	border: 1px solid blue;
